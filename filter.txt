@@ -1,0 +1,7 @@
+! Title: Untranslate Filter
+! Expires: 5 days
+! Description: Filter that requests the original webpage instead of auto translated version for uBlock Origin.
+! Homepage: https://github.com/myuki/ublock-untranslate-filter
+! License: https://github.com/myuki/ublock-untranslate-filter/blob/main/LICENSE
+
+$removeparam=tl,domain=reddit.com
